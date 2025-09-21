@@ -3,7 +3,7 @@ https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/
 # experimental for pybitmessage on linux and bsd:
 for comparison with libressl 2.7.0 (old-openssl 1.1.0)
 # install
-### rm /usr/bin/openssl
+### tar -xvzf libressl-2.5.0.tar.gz
 ### cd /libressl-2.5.0
 ### mkdir build
 ### cd build
