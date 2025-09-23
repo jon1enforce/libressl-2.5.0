@@ -1,7 +1,4 @@
-# libressl-2.5.0 (should)similar to OpenSSL 1.0.2k
-https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/
-# experimental for pybitmessage on linux and bsd:
-for comparison with libressl 2.7.0 (old-openssl 1.1.0)
+
 # install
 ### tar -xvzf libressl-2.5.0.tar.gz
 ### cd /libressl-2.5.0
