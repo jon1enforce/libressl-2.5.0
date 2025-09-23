@@ -1,7 +1,7 @@
 
 # install
 ### tar -xvzf libressl-2.5.0.tar.gz
-### cd /libressl-2.5.0
+### cd /libressl-4*
 ### mkdir build
 ### cd build
 ### cmake ..
